@@ -18,7 +18,7 @@ let newText1 = this.firstText[random1];
 let newText2= this.secondText[random2];
 let newText3 = this.thirdText[random3];
 
-   // invoke new variables
+   // return new variables
 return `"${newText1} ${newText2} ${newText3}."`;
   }
 };
